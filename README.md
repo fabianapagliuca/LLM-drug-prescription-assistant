@@ -1,1 +1,1 @@
-# LLM-drug-prescription-assistant
+# 💊 LLM-drug-prescription-assistant 💊
